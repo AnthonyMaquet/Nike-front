@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "image": "../assets/maillotpsg.jpg",
+    "title": "Paris Saint-Germain 2021/22",
+    "price": "139,99 €"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/fff.jpg",
+    "title": "France training",
+    "price": "59,99 €"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/maillotportugual.jpg",
+    "title": "Portugal 2020 Vapor Match Domicile",
+    "price": "139,99 €"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/maillotportext.jpg",
+    "title": "Portugal 2020 Stadium Extérieur",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/maillotpaysbas.jpg",
+    "title": "Netherlands 2020 Stadium Home",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/maillotusa.jpg",
+    "title": "USA 2020 Stadium Domicile",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/angleterre.jpg",
+    "title": "Angleterre 2020 Vapor Match Domicile",
+    "price": "139,99 €"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/leipzig.jpg",
+    "title": "RB Leipzig 2021/22 Stadium Domicile",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 8,
+    "image": "../assets/tottenham.jpg",
+    "title": "Tottenham Hotspur 2021/22 Match Domicile",
+    "price": "139,99 €"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/lakers.jpg",
+    "title": "LeBron James Lakers Statement Edition 2020 NBA",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/bucks.jpg",
+    "title": "Giannis Antetokounmpo Bucks icon Edition 2020NBA",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/clippers.jpg",
+    "title": "Kawhi Leonard Clippers Icon edition NBA",
+    "price": "69,99 €"
+  },
+
+  {
+    "id": 12,
+    "image": "../assets/nets.jpg",
+    "title": "Kyrie Irving Nets Icon Edition 2020 NBA",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 13,
+    "image": "../assets/knicks.jpg",
+    "title": "Frank Ntilikina Knicks Icon Edition 2020 NBA",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 14,
+    "image": "../assets/heats.jpg",
+    "title": "Miami Heat City Edition NBA",
+    "price": "99,99 €"
+  }
+]

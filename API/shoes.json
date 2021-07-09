@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "image": "../assets/kd.jpg",
+    "title": "KD14",
+    "price": "149,99 €"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/zion1.jpg",
+    "title": "Zion 1",
+    "price": "119,99 €"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/lebron.jpg",
+    "title": "Lebron Witness 5",
+    "price": "99,99 €"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/airmax96.jpg",
+    "title": "Nike Air Max 96",
+    "price": "179,99 €"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/airforce.jpg",
+    "title": "Nike Air Force",
+    "price": "99,99 €"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/airmax95.jpg",
+    "title": "Nike Air Max 95",
+    "price": "179,99 €"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/airmax.jpg",
+    "title": "Nike Air Max 2090",
+    "price": "149,99 €",
+    "discount": "89,97 €"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/mercurial.jpg",
+    "title": "Nike Mercurial Superfly 8 Pro FG",
+    "price": "149,99 €"
+  },
+
+  {
+    "id": 8,
+    "image": "../assets/airjordan.jpg",
+    "title": "Air Jordan XXXV",
+    "price": "184,99 €"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/jordanonetake.jpg",
+    "title": "Jordan One Take II",
+    "price": "99,99 €"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/airjordan11.jpg",
+    "title": "Air Jordan 11 CMFT Low",
+    "price": "124,99 €"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/jordanwhynot.jpg",
+    "title": "Jordan \"why not ?\"",
+    "price": "139,99 €"
+  }
+]

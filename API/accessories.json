@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "image": "../assets/applewatch.jpg",
+    "title": "Apple Watch Nike Series 6 avec Bracelet Sport Nike",
+    "price": "529 €"
+  },
+  {
+    "id": 1,
+    "image": "../assets/sacpsg.jpg",
+    "title": "Sac PSG",
+    "price": "115 €",
+    "discount": "80,97€"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/transform.jpg",
+    "title": "Nike Transform",
+    "price": "119,99 €"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/coudierenba.jpg",
+    "title": "Protection Nike NBA",
+    "price": "19,99 €"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/nbaelite.jpg",
+    "title": "Nike NBA Elite",
+    "price": "19,99 €"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/ballonbasketball.jpg",
+    "title": "Ballon Basket-ball Nike Versca Tack 8P",
+    "price": "29,99 €"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/sacnikefc.jpg",
+    "title": "Sac Nike F.C.",
+    "price": "34,99 €"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/protegetibia.jpg",
+    "title": "Protection tibia PSG Mercurial Lite",
+    "price": "27,99 €",
+    "discount": "20,97€"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/ballonstreet.jpg",
+    "title": "Ballon Football Nike Street Akka",
+    "price": "24,99 €"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/banane.jpg",
+    "title": "Sacoche/Banane Nike Heritage",
+    "price": "19,99 €"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/bandeau.jpg",
+    "title": "Bandeau NikeCourt",
+    "price": "17,99 €"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/sacred.jpg",
+    "title": "Sac Nike Sportswear Heritage",
+    "price": "27,99 €"
+  }
+]

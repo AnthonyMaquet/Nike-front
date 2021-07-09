@@ -1,0 +1,85 @@
+[
+  {
+    "id": 0,
+    "image": "../assets/psg.jpg",
+    "title": "Sweat Paris Saint-Germain",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/psg2.jpg",
+    "title": "Sweat Paris Saint-Germain",
+    "price": "64,97 €"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/sweatred.jpg",
+    "title": "Nike Sportwear",
+    "price": "79,99 €"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/sweatair.jpg",
+    "title": "Sweat Nike Air",
+    "price": "64,99 €"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/pantalonair.jpg",
+    "title": "Pantalon Nike Air",
+    "price": "69,99 €"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/jordanzion.jpg",
+    "title": "T-shirt Jordan Dri-FIT Zion",
+    "price": "39,99 €"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/madeinusa.jpg",
+    "title": "T-shirt Nike \"Made in the USA\"",
+    "price": "49,99 €"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/jordanaj4.jpg",
+    "title": "Sweat Jordan AJ4 Graphic",
+    "price": "79,99 €"
+  },
+
+  {
+    "id": 8,
+    "image": "../assets/jordanflight.jpg",
+    "title": "Sweat Jordan Flight",
+    "price": "79,99 €"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/vesteorange.jpg",
+    "title": "Veste Nike Sportwear Windrunner",
+    "price": "89,99 €"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/hautenmolleton.jpg",
+    "title": "Sweat Nike Sportswear Club",
+    "price": "49,99 €"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/tshirtrouge.jpg",
+    "title": "T-shirt Nike Sportswear Club",
+    "price": "19,99 €"
+  }
+]
